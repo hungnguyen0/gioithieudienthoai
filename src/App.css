@@ -1,0 +1,130 @@
+.App {
+  text-align: center;
+}
+.image{
+  height: 220px;
+}
+.App-logo {
+  height: 40vmin;
+}
+.price{
+  float: left;
+}
+.sale{
+  float: left;
+}
+..carousel-indicators li{
+   transition: all 0.25s ease;
+}
+.card{
+  margin: 0 auto;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+.nap{
+  margin: 0 auto;
+  margin-left: 0px;
+  margin-top: 20px;
+}
+.hinh{
+  width: 100%;
+  height: 100%;
+}
+.canh{
+  margin-left: 200px;
+}
+.search{
+  margin-left: 0px;
+  margin-top: 10px;
+  width: 70%;
+}
+.a{
+  float: left;
+  margin-top: 5px;
+}
+
+.search2{
+  float: left;
+  width: 50%;
+  margin-left: 250px;
+}
+.float-right{
+  float: right;
+}
+.list-img{
+  width: 80px;
+  height: 80px;
+}
+.margin-left{
+  margin-left: 150px;
+}
+.price{
+  color: red;
+  font-size: 25px;
+}
+
+p{
+  font-size: 15px;
+}
+p.loaimay{
+  border-right: 1px solid black;
+}
+.mb-3{
+  width: 1050px;
+}
+.ul{
+  clear: left;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+}
+.btn-group{
+  margin-right: 5px;
+  width: 130px;
+  height: 50px;
+}
+.khung{
+  border: 1px solid gray;
+  margin-top: 10px;
+  height: auto;
+}
+.xemchitiet{
+  margin-left: 20px;
+}
+.button_margin{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.img-hover-zoom img {
+  transform-origin: 65% 75%;
+  transition: transform 1s, filter .5s ease-out;
+}
+
+/* The Transformation */
+.img-hover-zoom:hover img {
+  transform: scale(1.5);
+}
+.img-hover-zoom {
+  position: relative;
+}
+.style{
+  position: absolute;
+  left: 255px;
+  bottom: 160px;
+}
+.style img{
+  width: 60px;
+  height: 60px;
+  display: block;
+}

@@ -1,0 +1,158 @@
+{
+  "products": [
+    {
+      "name": "Máy Điện Thoại Hawai",
+      "price": 9100000,
+      "promotion": 8750000,
+      "image": "/images/m1.jpg",
+      "name_category": "sản phẩm mới",
+      "type": "type 3",
+      "cambienhinhanh": "Cảm biến hình ảnh test",
+      "khogiayscan": "tối đa a2",
+      "tocdoscan": "20 trang/ phút",
+      "tinhtranghang": true,
+      "trangthai": "sản phẩm mới",
+      "id": "3"
+    },
+    {
+      "name": "Điện thoại Apple iPhone",
+      "price": 15200000,
+      "promotion": 13200000,
+      "image": "/images/m2.jpg",
+      "name_category": "sản phẩm hot",
+      "type": "type 4",
+      "cambienhinhanh": "Cảm biến ",
+      "khogiayscan": "a8",
+      "tocdoscan": "50 trang/ phút",
+      "tinhtranghang": false,
+      "trangthai": "sản phẩm hot",
+      "id": "4"
+    },
+    {
+      "name": "Sony Xperia Z5 ram 3G/32G ",
+      "price": "2500000",
+      "promotion": "2000000",
+      "image": "/images/m4.jpg",
+      "name_category": "sản phẩm khuyến mãi",
+      "type": "tài liệu",
+      "cambienhinhanh": "CCD",
+      "khogiayscan": "tối đa a3",
+      "tocdoscan": "50 trang trên phút",
+      "tinhtranghang": true,
+      "trangthai": "khuyến mãi",
+      "id": "JLcPmd0"
+    },
+    {
+      "name": "Siêu rẻ - IPHONE4 16G - Quốc Tế",
+      "price": "5800000",
+      "promotion": "5400000",
+      "image": "/images/m10.jpg",
+      "name_category": "sản phẩm hot",
+      "type": "In tài liệu",
+      "cambienhinhanh": "CCD HD",
+      "khogiayscan": "tối đa ",
+      "tocdoscan": "50 trang trên phút",
+      "tinhtranghang": false,
+      "trangthai": "hot",
+      "id": "As7YbfP"
+    },
+    {
+      "name": "Điện thoại di động ZONO N8110 1.8 ",
+      "price": "530000",
+      "promotion": "450000",
+      "image": "/images/m10.jpg",
+      "name_category": "sản phẩm mới",
+      "type": "scan tài liệu",
+      "cambienhinhanh": "CCD HD",
+      "khogiayscan": "tối đa a6",
+      "tocdoscan": "50 trang trên phút",
+      "tinhtranghang": true,
+      "trangthai": "mới",
+      "id": "UsxzK6q"
+    },
+    {
+      "name": "Điện thoại LG V20 RAM 4 GB ROM 64GB",
+      "price": "300000",
+      "promotion": "2500000",
+      "image": "/images/m11.jpg",
+      "name_category": "sản phẩm khuyến mãi",
+      "type": "scan giấy khổ lớn",
+      "cambienhinhanh": "SSD 1520",
+      "khogiayscan": "tối đa a2",
+      "tocdoscan": "100 trang trên phút",
+      "tinhtranghang": true,
+      "trangthai": "khuyến mãi",
+      "id": "X4PbNbu"
+    },
+    {
+      "name": "Điện thoại Xịn cảm ứng Giá rẻ - IPHONE4",
+      "price": "300000",
+      "promotion": "100000",
+      "image": "/images/m4.jpg",
+      "name_category": "sản phẩm hot",
+      "type": " tài liệu test",
+      "cambienhinhanh": "SSD 1520",
+      "khogiayscan": "tối đa ",
+      "tocdoscan": "100 trang trên phút",
+      "tinhtranghang": false,
+      "trangthai": "hot",
+      "id": "1lUIMb0"
+    },
+    {
+      "name": "NOKIA 2700 MAIN ZIN CHÍNH HÃNG, KÈM PIN SẠC",
+      "price": "30000",
+      "promotion": "25000",
+      "image": "/images/m6.jpg",
+      "name_category": "sản phẩm mới",
+      "type": "In tài liệu",
+      "cambienhinhanh": "SSD 1520",
+      "khogiayscan": "tối đa a6",
+      "tocdoscan": "50 trang trên phút",
+      "tinhtranghang": true,
+      "trangthai": "mới",
+      "id": "gB1izSN"
+    },
+    {
+      "name": "Điện thoại Apple iPhone",
+      "price": "12000000",
+      "promotion": "10000000",
+      "image": "/images/m7.jpg",
+      "name_category": "sản phẩm mới",
+      "type": "oppo",
+      "cambienhinhanh": "CCD",
+      "khogiayscan": "32GB",
+      "tocdoscan": "2.5hz",
+      "tinhtranghang": true,
+      "trangthai": "khuyến mãi",
+      "id": "jVfx1kZ"
+    },
+    {
+      "name": "hieu",
+      "price": "10000",
+      "promotion": "9000",
+      "image": "/images/grid-img2.jpg",
+      "name_category": "sản phẩm mới",
+      "type": "máy abc",
+      "cambienhinhanh": "Cảm ứng",
+      "khogiayscan": "2g",
+      "tocdoscan": "2.5hz",
+      "tinhtranghang": true,
+      "trangthai": "khuyến mãi",
+      "id": "3ePddqw"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "tendm": "sản phẩm mới"
+    },
+    {
+      "id": "2",
+      "tendm": "sản phẩm hot"
+    },
+    {
+      "id": "3",
+      "tendm": "sản phẩm khuyến mãi"
+    }
+  ]
+}
